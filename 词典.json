@@ -1,0 +1,16 @@
+[
+  {
+    "enabled": true,
+    "name": "汉典",
+    "showRule": "@js:var jsoup = org.jsoup.Jsoup.parse(result)\njsoup.select(\"div[class~=am-default contentslot|zi-b-container zib-title|div copyright]\").remove()\njsoup.select(\"[data-type-block~=词语解释|基本解释|详细解释|说文解字]\").html()",
+    "sortNumber": 0,
+    "urlRule": " https://www.zdic.net/hans/{{key}}"
+  },
+  {
+    "enabled": true,
+    "name": "百度百科",
+    "showRule": "@js:var jsoup = org.jsoup.Jsoup.parse(result)\njsoup.select(\"script\").remove()\njsoup.select(\"table[log-set-param=table_view]\").remove()\njsoup.select(\"div[class=para]\").html()",
+    "sortNumber": 0,
+    "urlRule": "https://baike.baidu.com/item/{{key}}"
+  }
+]
