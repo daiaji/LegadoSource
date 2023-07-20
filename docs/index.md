@@ -62,8 +62,8 @@
 
 ### <font size=3>漫画书源 🔥</font>
 
-- [访问直链](https://gh.erojk.ml/https://raw.githubusercontent.com/daiaji/LegadoSource/main/漫画.json)
-- [一键导入](legado://import/bookSource?src=https://gh.erojk.ml/https://raw.githubusercontent.com/daiaji/LegadoSource/main/漫画.json)
+- [访问直链](https://gh.erojk.eu.org/https://raw.githubusercontent.com/daiaji/LegadoSource/main/漫画.json)
+- [一键导入](legado://import/bookSource?src=https://gh.erojk.eu.org/https://raw.githubusercontent.com/daiaji/LegadoSource/main/漫画.json)
 
 ---
 
@@ -76,5 +76,5 @@
 
 ### <font size=3>净化替换 🔥</font>
 
-- [访问直链](https://gh.erojk.ml/https://raw.githubusercontent.com/daiaji/LegadoSource/main/净化.json)
-- [一键导入](legado://import/replaceRule?src=https://gh.erojk.ml/https://raw.githubusercontent.com/daiaji/LegadoSource/main/净化.json)
+- [访问直链](https://gh.erojk.eu.org/https://raw.githubusercontent.com/daiaji/LegadoSource/main/净化.json)
+- [一键导入](legado://import/replaceRule?src=https://gh.erojk.eu.org/https://raw.githubusercontent.com/daiaji/LegadoSource/main/净化.json)
